@@ -1,7 +1,7 @@
 {
 "dbURI": "mongodb+srv://tayib:Assalaam@cluster0.xeo0f.mongodb.net/Miniproject3?retryWrites=true&w=majority",
 "jwtsecret": "dummySecret",
-"StripeAPIKey":"sk_test_51KpnnQSBQGiFWyMnCeRYVDK3jyw8xjYeRo7NsJiAEim3EAYHxR5MzAABHpCbYiCCYNJjrB3kkbZS520eLmBer1wS00RZfxg97A"
+"StripeAPIKey":"stripe secret key"
 }
 
 //    "StripeAPIKey":"pk_test_51BTUDGJAJfZb9HEBwDg86TN1KNprHjkfipXmEDMb0gSCassK5T3ZfxsAbcgKVmAIXF7oZ6ItlZZbXO6idTHE67IM007EwQ4uN3"
